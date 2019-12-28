@@ -1,0 +1,43 @@
+
+
+
+
+.navbar ul {
+	float: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+}
+
+#navbar-left {
+	float: left;
+}
+
+.navbar-right {
+	float: right;
+}
+
+.google_logo {
+	display: block;
+	float: center;
+}
+
+
+
+
+/*footer*/
+footer {
+	background: #f2f2f2;
+	border-top: solid 2px #e4e4e4;
+	/*position fixed*/
+	bottom: 0;
+	padding-bottom: 0;
+	width: 100%;
+}
+
+.footer-right{
+	float: right;
+}
